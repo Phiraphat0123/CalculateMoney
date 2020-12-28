@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\bin\Debug\CalulateMoney.exe.config
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\bin\Debug\CalulateMoney.exe
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\bin\Debug\CalulateMoney.pdb
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\App.g.cs
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney_MarkupCompile.cache
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney_MarkupCompile.lref
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\MainWindow.baml
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney.g.resources
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney.exe
+C:\Users\ASUS\OneDrive\เอกสาร\GitHub\CalulateMoney\CalulateMoney\obj\Debug\CalulateMoney.pdb
